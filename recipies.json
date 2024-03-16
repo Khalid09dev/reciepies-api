@@ -1,0 +1,10 @@
+[
+    {
+    "recipe_image": "https://example.com/recipe1.jpg",
+    "recipe_name": "Spaghetti Carbonara",
+    "short_description": "Classic Italian pasta dish with creamy sauce",
+    "ingredients": ["200g spaghetti", "100g pancetta", "2 large eggs", "50g grated Parmesan cheese", "Salt and pepper to taste"],
+    "preparing_time": "30 minutes",
+    "calories": "450 kcal"
+    }
+]
